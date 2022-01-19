@@ -87,10 +87,10 @@ docker run -p 5678:5678 n8n-custom
 
 Navigate to your instance (`localhost:5678` if you're running locally) to access the TweetNaCl node.
 
-## Other
+### Other
 
 If you’re running either by installing it globally or via PM2, make sure that you install `n8n-nodes-tweetnacl` inside n8n. n8n will find the module and load it automatically.
 
-# Contributing
+## Contributing
 
 To contribute, refer to [CONTRIBUTING.md](./CONTRIBUTING.md).
