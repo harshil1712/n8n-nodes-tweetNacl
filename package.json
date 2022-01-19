@@ -7,7 +7,7 @@
         "tweetnacl"
     ],
     "description": "An n8n node to use TweetNaCl for encryption and descryption",
-    "license": "SEE LICENSE IN LICENSE.md",
+    "license": "MIT",
     "author": {
         "name": "Harshil Agrawal",
         "email": "connect@harshil.dev"
